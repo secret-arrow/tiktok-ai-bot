@@ -1,0 +1,15 @@
+
+# Environments
+.env
+*.env
+.venv
+env/
+venv/
+insight-env/
+ENV/
+env.bak/
+venv.bak/
+
+
+# MacOS files
+.DS_Store
